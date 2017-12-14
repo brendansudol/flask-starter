@@ -1,0 +1,10 @@
+# dependencies
+/venv
+
+# keys
+secrets
+
+# misc
+.DS_Store
+
+__pycache__
