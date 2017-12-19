@@ -3,3 +3,10 @@
 the most basic python (flask) web app
 
 deployed via heroku
+
+---
+
+development:
+
+$ source secrets
+$ flask run
